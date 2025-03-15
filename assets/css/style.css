@@ -24,6 +24,17 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     color:var(--sub-heading-color);
 }
+/*buttons*/
+.btn {
+    color: white;
+    background-color:#A17C5A; 
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
 
-
+.btn:hover {
+    background-color: var(--secondary-color);
+}
 
