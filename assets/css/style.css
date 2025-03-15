@@ -80,3 +80,8 @@ h1, h2, h3, h4, h5, h6 {
     padding: 40px 20px;
     text-align: center;
 }
+
+/* Footer Icons */
+#contact i {
+    margin-right: 8px;
+}
