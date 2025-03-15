@@ -96,3 +96,13 @@ h1, h2, h3, h4, h5, h6 {
     justify-content: center;
     gap: 20px;
 }
+
+.social-links a {
+    font-size: 1.5rem;
+    color: black;
+    transition: color 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+.social-links a:hover {
+    color: var(--sub-heading-color);
+    transform: scale(1.2);
+}
