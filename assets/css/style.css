@@ -106,3 +106,9 @@ h1, h2, h3, h4, h5, h6 {
     color: var(--sub-heading-color);
     transform: scale(1.2);
 }
+
+/* Footer Text */
+#contact p {
+    font-size: 1rem;
+    
+}
