@@ -130,10 +130,6 @@ a:hover{
     color: var(--button-color);
 }
 
-h2.mb-4 {
-    font-family: var(--secondary-font);
-    margin-top: 75px;
-}
 footer#contact.footer-bottom{
     margin-top: 15px;
 }
