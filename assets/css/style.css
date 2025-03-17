@@ -3,8 +3,8 @@
 
     --primary-font: "EB Garamond", serif;
     --secondary-font: "Nunito", sans-serif;
-    --primary-color: #F2E3D5; /* Navbar and footer */
-    --sub-heading-color: #C39B6D; /* Subheading and button color */
+    --primary-color: #F2E3D5; 
+    --sub-heading-color: #C39B6D; 
     --button-color: #8F6D5F;
     --secondary-color: #A48D67;
 }
@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6 {
 /*buttons*/
 .btn {
     color: white;
-    background-color:#A17C5A; 
+    background-color:var(--button-color); 
     padding: 10px 20px;
     border: none;
     cursor: pointer;
@@ -117,4 +117,23 @@ h1, h2, h3, h4, h5, h6 {
 #contact h2 {
     font-family: var(--secondary-font);
     font-size: 1.8rem;
+}
+
+/* Footer links */
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: var(--button-color);
+}
+
+h2.mb-4 {
+    font-family: var(--secondary-font);
+    margin-top: 75px;
+}
+footer#contact.footer-bottom{
+    margin-top: 15px;
 }
