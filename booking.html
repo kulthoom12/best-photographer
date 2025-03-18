@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body>
+<body class="d-flex flex-column min-vh-100">
     <!--Navbar-->
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
@@ -50,25 +50,25 @@
     </header>
     <main>
         <!-- Booking inquiry form -->
-        <section id="booking-form" class="container section">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-8">
-                    <form>
+        <section id="booking" class="container section">
+            <div class="d-flex row justify-content-center">
+                <div class="col-12">
+                    <form method="GET" action="success.html">
                         <div class="row">
-                            <div class="col-12 col-lg-6" >
+                            <div class="col-12 col-lg-6">
                                 <label for="firstname" class="form-label">Name</label>
                                 <input class="form-control" id="firstname">
                             </div>
-                            <div class="col-12 col-lg-6 >
-                                <label for="email address" class="form-label">Email</label>
+                            <div class="col-12 col-lg-6">
+                                <label for=" email address" class="form-label">Email</label>
                                 <input class="form-control" id="email address">
                             </div>
-                            <div class="col-12 col-lg-6 >
-                                <label for="number" class="form-label">Phone number</label>
+                            <div class="col-12 col-lg-6" >
+                                <label for=" number" class="form-label">Phone number</label>
                                 <input class="form-control" id="number">
                             </div>
-                            <div class="col-12 col-lg-6>
-                                <label for="event-type" class="form-label">Package Type</label>
+                            <div class="col-12 col-lg-6">
+                                <label for=" event-type" class="form-label">Package Type</label>
                                 <select id="event-type" class="form-select">
                                     <option selected>Select</option>
                                     <option value="wedding">Wedding Photography</option>
@@ -83,24 +83,20 @@
                                     <option value="birthday">Birthday Photography</option>
                                 </select>
                             </div>
-                            <div class="col-12>
-                                <label for="text" class="form-label">Message</label>
-                                <textarea class="form-control" rows="6" id="text"></textarea>
+                            <div class="col-12 col-lg-6">
+                                <label for=" text" class="form-label">Message</label>
+                                <textarea class="form-control" rows="4" id="text"></textarea>
                             </div>
                         </div>
-                        <button type="submit">Submit</button>
+                        <button type="submit" class="btn m-4">Submit</button>
                     </form>
                 </div>
             </div>
         </section>
     </main>
 
-
-
-
-
     <!--footer-->
-    <footer id="contact" class="fixed-bottom">
+    <footer id="contact" class="mt-auto">
         <div class="container section">
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-4">

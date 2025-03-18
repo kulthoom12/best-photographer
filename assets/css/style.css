@@ -43,11 +43,6 @@ h1, h2, h3, h4, h5, h6 {
     background-color: var(--primary-color);
 }
 
-/* Reviews Section */
-/* #reviews {
-    padding: 40px 20px;
-    border-radius: 10px;
-} */
 
 .review-item {
     padding: 20px;
