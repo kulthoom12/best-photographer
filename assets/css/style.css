@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
 :root {
 
     --primary-font: "EB Garamond", serif;
     --secondary-font: "Nunito", sans-serif;
-    --primary-color: #F2E3D5; 
-    --sub-heading-color: #C39B6D; 
+    --primary-color: #F2E3D5;
+    --sub-heading-color: #C39B6D;
     --button-color: #8F6D5F;
     --secondary-color: #A48D67;
 }
@@ -14,20 +15,26 @@
 img {
     max-width: 100%;
     max-height: 400px;
-    object-fit: cover; 
+    object-fit: cover;
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: var(--primary-font);
     text-transform: capitalize;
     text-align: center;
-    color:var(--sub-heading-color);
+    color: var(--sub-heading-color);
 }
+
 /*buttons*/
 .btn {
     color: white;
-    background-color:var(--button-color); 
+    background-color: var(--button-color);
     padding: 10px 20px;
     border: none;
     cursor: pointer;
@@ -68,6 +75,7 @@ h1, h2, h3, h4, h5, h6 {
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
+
 /* Footer */
 /* Footer Styling */
 #contact {
@@ -82,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contact i:hover {
-    color:white;
+    color: white;
 }
 
 /* Social Media Links */
@@ -97,6 +105,7 @@ h1, h2, h3, h4, h5, h6 {
     color: black;
     transition: color 0.3s ease-in-out, transform 0.2s ease-in-out;
 }
+
 .social-links a:hover {
     color: var(--sub-heading-color);
     transform: scale(1.2);
@@ -105,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Footer Text */
 #contact p {
     font-size: 1rem;
-    
+
 }
 
 /* Footer Heading */
@@ -115,32 +124,35 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Footer links */
-a{
+a {
     text-decoration: none;
     color: black;
 }
 
-a:hover{
+a:hover {
     text-decoration: underline;
     color: var(--button-color);
 }
 
-footer#contact.footer-bottom{
+footer#contact.footer-bottom {
     margin-top: 40px;
 }
 
-#service{
+#service {
     margin-top: 70px;
 }
 
 /* booking form page  */
-h1{
+h1 {
     margin-top: 100px;
 }
-p{ 
+
+p {
     text-align: center;
+    margin-top: 20px;
+    font-family: var(--secondary-font)
 }
 
-button{
+button {
     margin-top: 30px;
 }
