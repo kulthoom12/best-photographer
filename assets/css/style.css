@@ -138,9 +138,6 @@ footer#contact.footer-bottom {
     margin-top: 40px;
 }
 
-#service {
-    margin-top: 70px;
-}
 
 /* booking form page  */
 h1 {
@@ -150,7 +147,7 @@ h1 {
 p {
     text-align: center;
     margin-top: 20px;
-    font-family: var(--secondary-font)
+    font-family: var(--secondary-font);
 }
 
 button {
