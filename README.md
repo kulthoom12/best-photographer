@@ -24,3 +24,27 @@ A live version of the project can be accessed here: [Best Photographer](https://
 - As an existing user I would like to find the contact details to contact the photographer.
 - As an existing user I want to see any existing photography packages.
   
+## Wireframes
+
+Wireframes were created on paper for mobile, tablet and laptop screens for the home page, packages page and the book now page.
+
+### Mobile 
+
+<img>
+
+### Tablet 
+
+<img>
+
+### Desktop 
+
+<img>
+
+
+### Typography 
+
+**[EB Garamond](https://fonts.google.com/specimen/EB+Garamond)**: This font is elegant and classic. It’s used for headings to give the website a sophisticated and timeless look, perfect for the photography services we offer.
+
+**[Nunito](https://fonts.google.com/specimen/Nunito)**: This font is modern, clean, and easy to read. It’s used for the body text and other sections, making the website feel friendly and approachable for visitors.
+
+These fonts were chosen to create a good balance between elegance and readability, making the website professional and welcoming.
