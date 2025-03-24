@@ -114,3 +114,48 @@ Once a user successfully books a session, they’ll be taken to a **Thank You Pa
 - A message pops up saying, "Thank you for your booking!"
 - It lets the user know that the photographer will get in touch soon.
 - There’s also a **button** that says "Go back to home," which takes them back to the homepage.
+
+## Future Features
+
+### Newsletter Subscription
+- A newsletter signup option where users can receive updates on promotions, new photography packages, and blog posts.  
+- Users can sign in to view their past bookings and they can book future bookings too.
+
+## Deployment
+
+### GitHub Pages
+
+To deploy the website, follow these steps:
+
+1. Log in to [GitHub](https://github.com/).
+2. Go to the repository: **[kulthoom12/best-photographer](https://github.com/kulthoom12/best-photographer)**.
+3. Click on the **Settings** tab.
+4. Click the **Code and automation** section and then click **Pages**.
+5. Under **Build and deployment**, select the **main** branch.
+6. Click **Save**.
+
+The **Best Photography** website is hosted on GitHub Pages. You can view the live website by clicking [here](https://kulthoom12.github.io/best-photographer/).
+
+### Forking the GitHub Repository
+
+To create a copy of the repository in your own GitHub account:
+
+1. Log in to [GitHub](https://github.com/).
+2. Search for **[best-photographer](https://github.com/kulthoom12/best-photographer)** repository.
+3. Click on the **Fork** button at the top-right corner and click select **Create a new fork**.
+4. Now, the repository will be copied to your GitHub account, and you can make changes without affecting the original one.
+
+### Making a Local Clone
+
+To download the project to your computer:
+
+1. Log in to [GitHub](https://github.com/).
+2. Go to **[best-photographer](https://github.com/kulthoom12/best-photographer)**.
+3. Click on the **Code** button and select **Clone**.
+4. Copy the repository URL.
+5. Open your terminal or Git Bash in your preferred code editor.
+6. Type this command and hit Enter:
+   ```bash
+   git clone https://github.com/kulthoom12/best-photographer.git
+
+
