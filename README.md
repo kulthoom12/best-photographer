@@ -22,7 +22,7 @@ A live version of the project can be accessed here: [Best Photographer](https://
 - As a new user I would like to contact the photographer through the website to ask questions.
 - As a new user I would like to see examples of the photographer’s work so I know what to expect through images.
 - As a new user I would like to book a photography session online without any hassle.
--As a new user I would like to learn about different photography packages so I can choose the best one for me.
+- As a new user I would like to learn about different photography packages so I can choose the best one for me.
 - As a new user I want to find social media links so I can follow the photographer’s latest updates.
 
 ### Existing Users
@@ -61,9 +61,9 @@ These fonts were chosen to create a good balance between elegance and readabilit
 
 The Best Photography website has several important features to make it easy for visitors to find what they need and have a smooth experience.
 
-The **navbar** and **footer** is **consistent** across all pages, including the index.html, packages.html, booking.html, success.html and 404.html. They also share the same  **beige** background color to maintain readability and consistency.
+The **navbar** and **footer** are **consistent** across all pages, including the index.html, packages.html, booking.html, success.html and 404.html. They also share the same  **beige** background color to maintain readability and consistency.
 
-All pages have a **Responsive Design**. The layout adjusts to mobile, tablet, and desktop screens, ensuring a seamless experience across all devices.
+All pages have a **responsive design**. The layout adjusts to mobile, tablet, and desktop screens, ensuring a seamless experience across all devices.
 
 ### **Navbar**
 - The website has a **fixed navigation bar** that stays at the top of the page, so you can always access the key pages even as you scroll.  
