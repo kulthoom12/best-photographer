@@ -1,6 +1,13 @@
 # Best Photography 
 
-Welcome to Best Photography, where we specialize in capturing life's most precious moments. Whether it's a wedding, family portrait, or professional headshot, we are dedicated to providing you with stunning photos that you'll cherish forever. Our website offers a glimpse into our services, including free consultations to discuss your vision, expert photography tailored to your needs, personalized planning to ensure a seamless experience, and high-quality image editing for the perfect final result. At Best Photography, we are passionate about preserving your memories through the art of photography, making each moment unforgettable.
+Welcome to Best Photography, where we specialize in capturing life's most precious moments. Whether it's a wedding, family portrait, or professional headshot, we are dedicated to providing you with stunning photos that you'll cherish forever. Our website offers a glimpse into our services, including:
+
+- **Free consultations** to discuss your vision.
+- **Expert photography**  tailored to your needs. 
+- **Personalized planning** to ensure a seamless experience,  
+- **High-quality image editing** for the perfect final result. 
+
+At Best Photography, we are passionate about preserving your memories through the art of photography, making each moment unforgettable.
 
 A live version of the project can be accessed here: [Best Photographer](https://kulthoom12.github.io/best-photographer/)
 
