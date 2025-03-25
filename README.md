@@ -4,7 +4,7 @@ Welcome to Best Photography, where we specialize in capturing life's most precio
 
 - **Free consultations** to discuss your vision.
 - **Expert photography**  tailored to your needs. 
-- **Personalized planning** to ensure a seamless experience,  
+- **Personalized planning** to ensure a seamless experience.
 - **High-quality image editing** for the perfect final result. 
 
 At Best Photography, we are passionate about preserving your memories through the art of photography, making each moment unforgettable.
@@ -68,8 +68,10 @@ All pages have a **responsive design**. The layout adjusts to mobile, tablet, an
 ### **Navbar**
 - The website has a **fixed navigation bar** that stays at the top of the page, so you can always access the key pages even as you scroll.  
 - The navbar has links to **Home**, **Packages**, **Book Now**, and **Contact**, making it easy to get to different parts of the site.  
-- The **logo** in the navbar is clickable, and it will always take you back to the homepage.  
-- On **smaller screens**, the navbar changes into a **mobile-friendly menu**, so it works well on phones and tablets.  
+- The **logo** in the navbar is clickable and it will always take you back to the homepage.  
+- On **smaller screens**, the navbar changes into a **mobile-friendly menu**, so it works well on phones and tablets. 
+ 
+<img src="assets/images/navbar.png">
 
 ### **Footer**
 The footer is at the bottom of every page and gives you easy access to important information:
@@ -157,5 +159,6 @@ To download the project to your computer:
 6. Type this command and hit Enter:
    ```bash
    git clone https://github.com/kulthoom12/best-photographer.git
+
 
 
