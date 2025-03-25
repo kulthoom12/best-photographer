@@ -222,3 +222,18 @@ To download the project to your computer:
 | Book Now             | ![screenshot](assets/images/testing/responsivness/booking-mobile.png)      | ![screenshot](assets/images/testing/responsivness/booking-tablet.png)      | ![screenshot](assets/images/testing/responsivness/booking-laptop.png)      |
 
 </details>
+
+## Lighthouse Audit
+
+<details> <summary> Click to view the Lighthouse Inspection</summary>
+
+| Page     | Device  | Screenshot Before                                      | Lighthouse advice                                              | Screenshot After                                              |
+|----------|--------|------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------|
+| Home     | Mobile | ![screenshot](assets/images/testing/lighthouse/home-mobile.png) | ![screenshot](assets/images/testing/lighthouse/home-mobile-diagnosis.png) | ![screenshot](assets/images/testing/lighthouse/home-mobile.png) |
+| Home     | Desktop | ![screenshot](assets/images/testing/lighthouse/home-desktop.png) | ![screenshot](assets/images/testing/lighthouse/home-desktop-diagnosis.png) | ![screenshot](assets/images/testing/lighthouse/home-desktop.png) |
+| Packages | Mobile | ![screenshot](assets/images/testing/lighthouse/packages-mobile.png) | ![screenshot](assets/images/testing/lighthouse/packages-mobile-diagnosis.png) | ![screenshot](assets/images/testing/lighthouse/packages-mobile.png) |
+| Packages | Desktop | ![screenshot](assets/images/testing/lighthouse/packages-desktop.png) | ![screenshot](assets/images/testing/lighthouse/packages-desktop-diagnosis.png) | ![screenshot](assets/images/testing/lighthouse/packages-desktop.png) |
+| Booking  | Mobile | ![screenshot](assets/images/testing/lighthouse/booking-mobile.png) | ![screenshot](assets/images/testing/lighthouse/booking-mobile-diagnosis.png) | ![screenshot](assets/images/testing/lighthouse/booking-mobile.png) |
+| Booking  | Desktop | ![screenshot](assets/images/testing/lighthouse/booking-desktop.png) | ![screenshot](assets/images/testing/lighthouse/booking-desktop-diagnosis.png) | ![screenshot](assets/images/testing/lighthouse/booking-desktop.png) |
+
+</details>
