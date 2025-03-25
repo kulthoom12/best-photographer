@@ -72,12 +72,15 @@ All pages have a **responsive design**. The layout adjusts to mobile, tablet, an
 - On **smaller screens**, the navbar changes into a **mobile-friendly menu**, so it works well on phones and tablets. 
  
 <img src="assets/images/navbar.png">
+<img src="assets/images/navbar-mobile.png">
 
 ### **Footer**
 The footer is at the bottom of every page and gives you easy access to important information:
 - **Contact Details**: You can find the phone number and email address to get in touch with the photographer.
 - **Social Media Links**: Icons for Instagram, Facebook, and Twitter open in new tabs, so you can stay connected with the photographer’s latest work.
 - **Quick Links**: The footer also includes links to **Services**, **Testimonials**, and **Packages**, so you can quickly navigate the site.
+
+<img src="assets/images/footer.png">
 
 ### Home Page
 #### Introduction Section
@@ -86,19 +89,29 @@ The homepage is where you first land and gives an introduction to **Best Photogr
 - **Carousel**: An autoplaying carousel is displayed on the left of the page, showcasing photography images of the photographer’s work. 
 - **Introduction**: A brief overview of the services provided, including wedding albums, family portraits, and professional headshots. A **button** is displayed on the right of the page introducing 'Best Photographer' to users, and the button enables users to book a photoshoot by directing them to the **booking.html** page.
 
+<img src="assets/images/home.png">
+
 #### **Service Section**
-The **Service Section** on the homepage introduces the main services offered by **Best Photography**. It shows four cards, each explaining a different service..
+The **Service Section** on the homepage introduces the main services offered by **Best Photography**. It shows four cards, each explaining a different service.
+
+<img src="assets/images/service.png">
 
 #### **Testimonials Section**
 On the homepage, there is a **Testimonials Section** featuring four reviews from past clients, sharing their experiences with the photographer.
+
+<img src="assets/images/testimonials.png">
 
 #### **Video Section**
 There’s also a **Video Section** on the homepage:
 - **Embedded YouTube Video**: A video embedded from YouTube that plays automatically (muted) to engage visitors.
 
+<img src="assets/images/video.png">
+
 ### **Packages Page**
 The **Packages Page** provides detailed information on **10 different photography packages**:
 - Each package has its own **image, description** and a **Book Now button** with the respective price, making it easy for users to take action.
+
+<img src="assets/images/packages.png">
 
 ### **Book Now Page**
 The **Booking Form** allows users to book a photography session. It includes the following input fields:
@@ -106,16 +119,22 @@ The **Booking Form** allows users to book a photography session. It includes the
 
 All input fields are required, and the form cannot be submitted unless all fields are filled out.
 
+<img src="assets/images/booking.png">
+
 ### **404 Error Page**
 If a user tries to go to a page that doesn't exist, they’ll be directed to a **404 Error Page**:
 - This displays a message that informs the user that the page they are looking for doesn’t exist.
 - There’s a **button** that says "Go back to home," so users can easily go back to the homepage.
+
+<img src="">
 
 ### **Booking Success Page**
 Once a user successfully books a session, they’ll be taken to a **Thank You Page**:
 - A message pops up saying, "Thank you for your booking!"
 - It lets the user know that the photographer will get in touch soon.
 - There’s also a **button** that says "Go back to home," which takes them back to the homepage.
+
+<img src="assets/images/success.png">
 
 ## Future Features
 
