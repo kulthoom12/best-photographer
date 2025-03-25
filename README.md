@@ -179,5 +179,46 @@ To download the project to your computer:
    ```bash
    git clone https://github.com/kulthoom12/best-photographer.git
 
+## Testing 
+
+## HTML Testing
+
+<details> <summary> Click to view the HTML testing </summary>
 
 
+| Page     | Screenshot Before                                              | Screenshot After                                              |
+| -------- | -------------------------------------------------------------- | ------------------------------------------------------------- |
+| Home     | ![screenshot](assets/images/testing/valid/index-before.png)    | ![screenshot](assets/images/testing/valid/index-after.png)    |
+| Packages | ![screenshot](assets/images/testing/valid/packages-before.png) | ![screenshot](assets/images/testing/valid/packages-after.png) |
+| Booking  | ![screenshot](assets/images/testing/valid/booking-before.png)  | ![screenshot](assets/images/testing/valid/booking-after.png)  |
+| Error    | ![screenshot](assets/images/testing/valid/error-before.png)    | ![screenshot](assets/images/testing/valid/error-after.png)    |
+| Success  | ![screenshot](assets/images/testing/valid/success.png)         | ![screenshot](assets/images/testing/valid/success.png)        |
+
+</details>
+
+
+
+## CSS Testing
+
+<details> <summary> Click to view the CSS testing </summary>
+
+| Page | Screenshot Before                                  | Screenshot After                                   |
+| ---- | -------------------------------------------------- | -------------------------------------------------- |
+| Home | ![screenshot](assets/images/testing/valid/css.png) | ![screenshot](assets/images/testing/valid/css.png) |
+
+</details>
+
+## Responsiveness
+
+<details> <summary> Click to view the CSS testing </summary>
+
+| Device                 | Mobile                                                         | Tablet                                                         | Laptop                                                         |
+|------------------------|---------------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------------|
+| Home carousel/about    | ![screenshot](assets/images/testing/responsivness/home-mobile.png)      | ![screenshot](assets/images/testing/responsivness/home-tablet.png)      | ![screenshot](assets/images/testing/responsivness/home-laptop.png)      |
+| Home services         | ![screenshot](assets/images/testing/responsivness/home-service-mobile.png) | ![screenshot](assets/images/testing/responsivness/home-tablet.png)      | ![screenshot](assets/images/testing/responsivness/home-laptop.png)      |
+| Home contact          | ![screenshot](assets/images/testing/responsivness/home-contact.png)      | ![screenshot](assets/images/testing/responsivness/home-contact-tablet.png) | ![screenshot](assets/images/testing/responsivness/home-contact-laptop.png) |
+| Home testimonials     | ![screenshot](assets/images/testing/responsivness/home-testimonials-mobile.png) | ![screenshot](assets/images/testing/responsivness/home-testimonials-tablet.png) | ![screenshot](assets/images/testing/responsivness/home-testimonials-laptop.png) |
+| Packages             | ![screenshot](assets/images/testing/responsivness/packages-mobile.png)     | ![screenshot](assets/images/testing/responsivness/packages-tablet.png)     | ![screenshot](assets/images/testing/responsivness/packages-laptop.png)     |
+| Book now             | ![screenshot](assets/images/testing/responsivness/booking-mobile.png)      | ![screenshot](assets/images/testing/responsivness/booking-tablet.png)      | ![screenshot](assets/images/testing/responsivness/booking-laptop.png)      |
+
+</details>
