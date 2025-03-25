@@ -51,6 +51,8 @@
     <main>
         <!-- Booking inquiry form -->
         <section id="booking" class="container section">
+            <h2>Booking Information</h2>
+            <p>Fill in Your details below</p>
             <div class="d-flex row justify-content-center">
                 <div class="col-12">
                     <form method="GET" action="success.html">
@@ -61,20 +63,18 @@
                                     type="text" required>
                             </div>
                             <div class="col-12">
-                                <label for="email address" class="form-label">Email</label>
+                                <label for="email-address" class="form-label">Email</label>
                                 <input class="form-control" id="email-address" name="email"
                                     placeholder="example@gmail.com" type="email" required>
                             </div>
                             <div class="col-12">
-                                <label for="number" class="form-label">Phone number</label>
-                                <input type="tel" id="number" name="phone" class="form-control"
-                                    placeholder="Enter your phone number" required">
+                                <input type="tel" id="number" name="phone" class="form-control" placeholder="Enter your phone number" required>
                                 <div class="invalid-feedback">Please enter a valid 10-digit phone number.</div>
                             </div>
                             <div class="col-12">
                                 <label for="event-type" class="form-label">Package Type</label>
                                 <select id="event-type" class="form-select" name="event-type" required>
-                                    <option selected>Select</option>
+                                    <option selected>Select an option</option>
                                     <option value="wedding">Wedding Photography</option>
                                     <option value="engagement">Engagement Photography</option>
                                     <option value="maternity">Maternity Photography</option>
@@ -88,8 +88,8 @@
                                 </select>
                             </div>
                             <div class="col-12">
-                                <label for=" text" class="form-label">Message</label>
-                                <textarea class="form-control" rows="4" id="text" name="text" required></textarea>
+                                <label for="message" class="form-label">Message</label>
+                                <textarea class="form-control" rows="4" id="Message" name="Message" required></textarea>
                             </div>
                         </div>
                         <button type="submit" class="btn m-4">Submit</button>
