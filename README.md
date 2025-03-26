@@ -222,12 +222,13 @@ To download the project to your computer:
 
 | Device              | Mobile                                                                          | Tablet                                                                          | Laptop                                                                          |
 | ------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Home Carousel/About | ![screenshot](assets/images/testing/responsivness/home-mobile.png)              | ![screenshot](assets/images/testing/responsivness/home-tablet.png)              | ![screenshot](assets/images/testing/responsivness/home-laptop.png)              |
-| Home Services       | ![screenshot](assets/images/testing/responsivness/home-service-mobile.png)      | ![screenshot](assets/images/testing/responsivness/home-tablet.png)              | ![screenshot](assets/images/testing/responsivness/home-laptop.png)              |
-| Home Contact        | ![screenshot](assets/images/testing/responsivness/home-contact.png)             | ![screenshot](assets/images/testing/responsivness/home-contact-tablet.png)      | ![screenshot](assets/images/testing/responsivness/home-contact-laptop.png)      |
-| Home Testimonials   | ![screenshot](assets/images/testing/responsivness/home-testimonials-mobile.png) | ![screenshot](assets/images/testing/responsivness/home-testimonials-tablet.png) | ![screenshot](assets/images/testing/responsivness/home-testimonials-laptop.png) |
+| Home carousel/about | ![screenshot](assets/images/testing/responsivness/home-mobile.png)              | ![screenshot](assets/images/testing/responsivness/home-tablet.png)              | ![screenshot](assets/images/testing/responsivness/home-laptop.png)              |
+| Home services       | ![screenshot](assets/images/testing/responsivness/home-service-mobile.png)      | ![screenshot](assets/images/testing/responsivness/home-tablet.png)              | ![screenshot](assets/images/testing/responsivness/home-laptop.png)              |
+| Home contact        | ![screenshot](assets/images/testing/responsivness/home-contact.png)             | ![screenshot](assets/images/testing/responsivness/home-contact-tablet.png)      | ![screenshot](assets/images/testing/responsivness/home-contact-laptop.png)      |
+| Home testimonials   | ![screenshot](assets/images/testing/responsivness/home-testimonials-mobile.png) | ![screenshot](assets/images/testing/responsivness/home-testimonials-tablet.png) | ![screenshot](assets/images/testing/responsivness/home-testimonials-laptop.png) |
 | Packages            | ![screenshot](assets/images/testing/responsivness/packages-mobile.png)          | ![screenshot](assets/images/testing/responsivness/packages-tablet.png)          | ![screenshot](assets/images/testing/responsivness/packages-laptop.png)          |
-| Book Now            | ![screenshot](assets/images/testing/responsivness/booking-mobile.png)           | ![screenshot](assets/images/testing/responsivness/booking-tablet.png)           | ![screenshot](assets/images/testing/responsivness/booking-laptop.png)           |
+| Book now            | ![screenshot](assets/images/testing/responsivness/booking-mobile.png)           | ![screenshot](assets/images/testing/responsivness/booking-tablet.png)           | ![screenshot](assets/images/testing/responsivness/booking-laptop.png)           |
+
 
 </details>
 
