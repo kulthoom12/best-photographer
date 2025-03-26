@@ -37,15 +37,22 @@ Wireframes were created on paper for mobile, tablet and laptop screens for the h
 
 ### Mobile 
 
-<img>
+<details> <summary> Click to view the Mobile Wireframes</summary>
+<img src="assets/images/mobile.png">
+
+
+</details>
 
 ### Tablet 
+<details> <summary> Click to view the Tablet Wireframes</summary>
 
-<img>
+<img src="">
+</details>
 
 ### Desktop 
+<details> <summary> Click to view the Desktop Wireframes</summary>
 
-<img>
+</details>
 
 ### Typography 
 
