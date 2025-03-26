@@ -13,9 +13,9 @@ A live version of the project can be accessed here: [Best Photographer](https://
 
 <img>
 
-# UX
+## UX
 
-## New User Stories
+### New User Stories
 
 - As a new user I would like to understand what the website offers so I can decide if it’s right for me.
 - As a new user I would like to easily navigate the site so I can find what I’m looking for.
@@ -31,6 +31,15 @@ A live version of the project can be accessed here: [Best Photographer](https://
 - As an existing user I would like to find the contact details to contact the photographer.
 - As an existing user I want to see any existing photography packages.
   
+### Typography 
+
+**[EB Garamond](https://fonts.google.com/specimen/EB+Garamond)**: This font is elegant and classic. It’s used for headings to give the website a sophisticated and timeless look, perfect for the photography services we offer.
+
+**[Nunito](https://fonts.google.com/specimen/Nunito)**: This font is modern, clean, and easy to read. It’s used for the body text and other sections, making the website feel friendly and approachable for visitors.
+
+These fonts were chosen to create a good balance between elegance and readability, making the website professional and welcoming.
+
+
 ## Wireframes
 
 Wireframes were created on paper for mobile, tablet and laptop screens for the home page, packages page and the book now page.
@@ -53,13 +62,6 @@ Wireframes were created on paper for mobile, tablet and laptop screens for the h
 <img src="assets/images/wireframe-desktop.png">
 </details>
 
-### Typography 
-
-**[EB Garamond](https://fonts.google.com/specimen/EB+Garamond)**: This font is elegant and classic. It’s used for headings to give the website a sophisticated and timeless look, perfect for the photography services we offer.
-
-**[Nunito](https://fonts.google.com/specimen/Nunito)**: This font is modern, clean, and easy to read. It’s used for the body text and other sections, making the website feel friendly and approachable for visitors.
-
-These fonts were chosen to create a good balance between elegance and readability, making the website professional and welcoming.
 
 ## Features
 
@@ -132,7 +134,7 @@ If a user tries to go to a page that doesn't exist, they’ll be directed to a *
 - This displays a message that informs the user that the page they are looking for doesn’t exist.
 - There’s a **button** that says "Go back to home," so users can easily go back to the homepage.
 
-<img src="">
+<img src="assets/images/error.png">
 
 ### **Booking Success Page**
 Once a user successfully books a session, they’ll be taken to a **Thank You Page**:
@@ -142,7 +144,7 @@ Once a user successfully books a session, they’ll be taken to a **Thank You Pa
 
 <img src="assets/images/success.png">
 
-## Future Features
+### Future Features
 
 ### Newsletter Subscription
 - A newsletter signup option where users can receive updates on promotions, new photography packages, and blog posts.  
@@ -187,7 +189,7 @@ To download the project to your computer:
 
 ## Testing 
 
-## HTML Testing
+### HTML Testing
 
 <details> <summary> Click to view the HTML testing </summary>
 
@@ -204,7 +206,7 @@ To download the project to your computer:
 
 
 
-## CSS Testing
+### CSS Testing
 
 <details> <summary> Click to view the CSS testing </summary>
 
@@ -214,7 +216,7 @@ To download the project to your computer:
 
 </details>
 
-## Responsiveness
+### Responsiveness
 
 <details> <summary> Click to view the CSS testing </summary>
 
@@ -229,7 +231,7 @@ To download the project to your computer:
 
 </details>
 
-## Lighthouse Audit
+### Lighthouse Audit
 
 <details> <summary> Click to view the Lighthouse Inspection</summary>
 
@@ -243,3 +245,17 @@ To download the project to your computer:
 | Booking  | Desktop | ![screenshot](assets/images/testing/lighthouse/booking-desktop.png)  | ![screenshot](assets/images/testing/lighthouse/booking-desktop-diagnosis.png)  | ![screenshot](assets/images/testing/lighthouse/booking-desktop.png)  |
 
 </details>
+
+### Browser Compatibility
+
+### Bugs
+
+## Tools and Technologies Used
+
+## Credits
+
+### Content
+
+### Media
+
+### Acknowledgements
