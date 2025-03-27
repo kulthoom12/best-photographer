@@ -1,5 +1,47 @@
 # Best Photography 
 
+- [Best Photography](#best-photography)
+  - [UX](#ux)
+    - [New User Stories](#new-user-stories)
+    - [Existing Users](#existing-users)
+    - [Typography](#typography)
+    - [Color Scheme](#color-scheme)
+  - [Wireframes](#wireframes)
+    - [Mobile](#mobile)
+    - [Tablet](#tablet)
+    - [Desktop](#desktop)
+  - [Features](#features)
+    - [Existing Features](#existing-features)
+    - [Navbar](#navbar)
+    - [Footer](#footer)
+    - [Home Page](#home-page)
+      - [Introduction Section](#introduction-section)
+      - [Service Section](#service-section)
+      - [Testimonials Section](#testimonials-section)
+      - [Video Section](#video-section)
+    - [Packages Page](#packages-page)
+    - [Book Now Page](#book-now-page)
+    - [404 Error Page](#404-error-page)
+    - [Booking Success Page](#booking-success-page)
+    - [Future Features](#future-features)
+    - [Newsletter Subscription](#newsletter-subscription)
+  - [Deployment](#deployment)
+    - [GitHub Pages](#github-pages)
+    - [Forking the GitHub Repository](#forking-the-github-repository)
+    - [Making a Local Clone](#making-a-local-clone)
+  - [Testing](#testing)
+    - [HTML Testing](#html-testing)
+    - [CSS Testing](#css-testing)
+    - [Responsiveness](#responsiveness)
+    - [Lighthouse Audit](#lighthouse-audit)
+    - [Browser Compatibility](#browser-compatibility)
+    - [Bugs](#bugs)
+  - [Tools and Technologies Used](#tools-and-technologies-used)
+  - [Credits](#credits)
+    - [Content](#content)
+    - [Media](#media)
+    - [Acknowledgements](#acknowledgements)
+
 Welcome to Best Photography, where we specialize in capturing life's most precious moments. Whether it's a wedding, family portrait, or professional headshot, we are dedicated to providing you with stunning photos that you'll cherish forever. Our website offers a glimpse into our services, including:
 
 - **Free consultations** to discuss your vision.
@@ -11,7 +53,7 @@ At Best Photography, we are passionate about preserving your memories through th
 
 A live version of the project can be accessed here: [Best Photographer](https://kulthoom12.github.io/best-photographer/)
 
-<img>
+<img src="assets/images/intro.png">
 
 ## UX
 
@@ -39,6 +81,18 @@ A live version of the project can be accessed here: [Best Photographer](https://
 
 These fonts were chosen to create a good balance between elegance and readability, making the website professional and welcoming.
 
+### Color Scheme
+
+This color palette was carefully chosen to give the website a warm, professional, and inviting feel. Each color plays a role in making the design visually appealing and easy to navigate.  
+
+| Color            | Hex Code  | Reason                                                       |
+| ---------------- | --------- | ------------------------------------------------------------ |
+| **Warm Beige**   | `#F2E3D5` | A neutral background that keeps things clean and elegant.    |
+| **Rich Gold**    | `#C39B6D` | Highlights important elements like buttons and key sections. |
+| **Muted Brown**  | `#8F6D5F` | Used for text and contrast to keep everything readable.      |
+| **Earthy Olive** | `#A48D67` | A subtle accent that enhances the overall visual balance.    |
+
+<img src="assets/images/colour-scheme.png">
 
 ## Wireframes
 
@@ -62,7 +116,6 @@ Wireframes were created on paper for mobile, tablet and laptop screens for the h
 <img src="assets/images/wireframe-desktop.png">
 </details>
 
-
 ## Features
 
 ### Existing Features
@@ -73,7 +126,7 @@ The **navbar** and **footer** are **consistent** across all pages, including the
 
 All pages have a **responsive design**. The layout adjusts to mobile, tablet, and desktop screens, ensuring a seamless experience across all devices.
 
-### **Navbar**
+### Navbar
 - The website has a **fixed navigation bar** that stays at the top of the page, so you can always access the key pages even as you scroll.  
 - The navbar has links to **Home**, **Packages**, **Book Now**, and **Contact**, making it easy to get to different parts of the site.  
 - The **logo** in the navbar is clickable and it will always take you back to the homepage.  
@@ -82,7 +135,7 @@ All pages have a **responsive design**. The layout adjusts to mobile, tablet, an
 <img src="assets/images/navbar.png">
 <img src="assets/images/navbar-mobile.png">
 
-### **Footer**
+### Footer
 The footer is at the bottom of every page and gives you easy access to important information:
 - **Contact Details**: You can find the phone number and email address to get in touch with the photographer.
 - **Social Media Links**: Icons for Instagram, Facebook, and Twitter open in new tabs, so you can stay connected with the photographer’s latest work.
@@ -99,29 +152,29 @@ The homepage is where you first land and gives an introduction to **Best Photogr
 
 <img src="assets/images/home.png">
 
-#### **Service Section**
+#### Service Section
 The **Service Section** on the homepage introduces the main services offered by **Best Photography**. It shows four cards, each explaining a different service.
 
 <img src="assets/images/service.png">
 
-#### **Testimonials Section**
+#### Testimonials Section
 On the homepage, there is a **Testimonials Section** featuring four reviews from past clients, sharing their experiences with the photographer.
 
 <img src="assets/images/testimonials.png">
 
-#### **Video Section**
+#### Video Section
 There’s also a **Video Section** on the homepage:
 - **Embedded YouTube Video**: A video embedded from YouTube that plays automatically (muted) to engage visitors.
 
 <img src="assets/images/video.png">
 
-### **Packages Page**
+### Packages Page
 The **Packages Page** provides detailed information on **10 different photography packages**:
 - Each package has its own **image, description** and a **Book Now button** with the respective price, making it easy for users to take action.
 
 <img src="assets/images/packages.png">
 
-### **Book Now Page**
+### Book Now Page
 The **Booking Form** allows users to book a photography session. It includes the following input fields:
 - Name, Email Address, Phone Number, Package Type, Message and a Submit Button.
 
@@ -129,14 +182,14 @@ All input fields are required, and the form cannot be submitted unless all field
 
 <img src="assets/images/booking.png">
 
-### **404 Error Page**
+### 404 Error Page
 If a user tries to go to a page that doesn't exist, they’ll be directed to a **404 Error Page**:
 - This displays a message that informs the user that the page they are looking for doesn’t exist.
 - There’s a **button** that says "Go back to home," so users can easily go back to the homepage.
 
 <img src="assets/images/error.png">
 
-### **Booking Success Page**
+### Booking Success Page
 Once a user successfully books a session, they’ll be taken to a **Thank You Page**:
 - A message pops up saying, "Thank you for your booking!"
 - It lets the user know that the photographer will get in touch soon.
@@ -259,6 +312,8 @@ To download the project to your computer:
 </details>
 
 ### Bugs
+
+No bugs found to my knowledge.
 
 ## Tools and Technologies Used
 
