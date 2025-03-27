@@ -248,6 +248,16 @@ To download the project to your computer:
 </details>
 
 ### Browser Compatibility
+<details> <summary> Click to view the browser compatibility</summary>
+
+|                | Google Chrome | Brave | Firefox | Microsoft Edge |
+|--------------|--------------|-------|---------|---------------|
+| Home Carousel | ![screenshot](assets/images/testing/browser-compatibility/chrome-home-carousel.png) | ![screenshot](assets/images/testing/browser-compatibility/brave-home-carousel.png) | ![screenshot](assets/images/testing/browser-compatibility/firefox-home-carousel.png) | ![screenshot](assets/images/testing/browser-compatibility/microsoft-home-carousel.png) |
+| Home Footer  | ![screenshot](assets/images/testing/browser-compatibility/chrome-home-footer.png) | ![screenshot](assets/images/testing/browser-compatibility/brave-home-footer.png) | ![screenshot](assets/images/testing/browser-compatibility/firefox-home-footer.png) | ![screenshot](assets/images/testing/browser-compatibility/mircosoft-home-footer.png) |
+| Packages     | ![screenshot](assets/images/testing/browser-compatibility/chrome-packages.png) | ![screenshot](assets/images/testing/browser-compatibility/brave-packages.png) | ![screenshot](assets/images/testing/browser-compatibility/firefox-packages.png) | ![screenshot](assets/images/testing/browser-compatibility/mircosoft-packages.png) |
+| Booking      | ![screenshot](assets/images/testing/browser-compatibility/chrome-booking.png) | ![screenshot](assets/images/testing/browser-compatibility/brave-booking.png) | ![screenshot](assets/images/testing/browser-compatibility/firefox-booking.png) | ![screenshot](assets/images/testing/browser-compatibility/mircosoft-booking.png) |
+
+</details>
 
 ### Bugs
 
