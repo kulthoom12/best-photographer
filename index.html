@@ -22,29 +22,32 @@
 </head>
 
 <body class="d-flex flex-column min-vh-100 pt-5 mt-5">
-    <!--Navbar-->
-    <nav class="navbar navbar-expand-lg fixed-top">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="index.html">
-                <img src="assets/images/favicon-32x32.png" alt="Best photographer website logo" class="logo">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                <div class="navbar-nav ms-auto">
-                    <a class="nav-link active" aria-current="page" href="index.html">Home</a>
-                    <a class="nav-link" href="packages.html">Packages</a>
-                    <a class="nav-link" href="index.html#contact">Contact Us</a>
-                    <a class="nav-link" href="booking.html">Book Now</a>
+    <!-- header-->
+    <header>
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg fixed-top">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html" aria-label="click on the logo to redirect to homepage">
+                    <img src="assets/images/favicon-32x32.png" alt="Best photographer website logo" class="logo">
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarNavAltMarkup">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav ms-auto">
+                        <a class="nav-link active" aria-current="page" href="index.html" aria-label="click for homepage">Home</a>
+                        <a class="nav-link" aria-label="click to read more about packages" href="packages.html">Packages</a>
+                        <a class="nav-link" aria-label="click to contact us" href="index.html#contact">Contact Us</a>
+                        <a class="nav-link" href="booking.html" aria-label="click to book with us">Book Now</a>
+                    </div>
                 </div>
             </div>
-        </div>
-    </nav>
+        </nav>
+    </header>
     <!--Main Section-->
     <main>
-        <!-- Header Section -->
-        <header id="header" class="container mt-5">
+        <section id="header" class="container mt-5">
             <div class="row align-items-center">
                 <!--Carousel -->
                 <div class="col-12 col-md-6">
@@ -87,112 +90,121 @@
 
                 </div>
             </div>
-        </header>
-        <!--Service Section-->
-        <div id="service" class="container text-center mt-5">
-            <h2 class="mb-4">Our Services</h2>
-            <div class="row g-3 justify-content-center">
-                <!-- Free Consultation -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="card h-100">
-                        <h4 class="mt-2">Free Consultation</h4>
-                        <img src="assets/images/free-consultation.webp" class="card-img-top"
-                            alt="A photographer consulting with clients before an event">
-                        <div class="card-body">
-                            <p class="card-text">We provide a free consultation to discuss your vision, location, and
-                                style to ensure beautiful results.</p>
+            <!--Service Section-->
+            <div id="service" class="container text-center mt-5">
+                <h2 class="mb-4">Our Services</h2>
+                <div class="row g-3 justify-content-center">
+                    <!-- Free Consultation -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="card h-100">
+                            <h4 class="mt-2">Free Consultation</h4>
+                            <img src="assets/images/free-consultation.webp" class="card-img-top"
+                                alt="A photographer consulting with clients before an event">
+                            <div class="card-body">
+                                <p class="card-text">We provide a free consultation to discuss your vision, location,
+                                    and
+                                    style to ensure beautiful results.</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <!--Expert Photography-->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="card h-100">
-                        <h4 class="mt-2">Expert Photography</h4>
-                        <img src="assets/images/Expertphotography.webp" class="card-img-top"
-                            alt="Photographer taking professional pictures at an event">
-                        <div class="card-body">
-                            <p class="card-text">We create a comfortable, enjoyable atmosphere, capturing natural and
-                                high-quality, timeless photos.</p>
+                    <!--Expert Photography-->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="card h-100">
+                            <h4 class="mt-2">Expert Photography</h4>
+                            <img src="assets/images/expertphotography.webp" class="card-img-top"
+                                alt="Photographer taking professional pictures at an event">
+                            <div class="card-body">
+                                <p class="card-text">We create a comfortable, enjoyable atmosphere, capturing natural
+                                    and
+                                    high-quality, timeless photos.</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <!--Personalised Planning-->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="card h-100">
-                        <h4 class="mt-2">Personalised Planning</h4>
-                        <img src="assets/images/Personalised-planning.webp" class="card-img-top"
-                            alt="Planning a photography session with a couple">
-                        <div class="card-body">
-                            <p class="card-text">We tailor your photoshoot to match your style, taking care of all the
-                                details to ensure a stress-free session.</p>
+                    <!--Personalised Planning-->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="card h-100">
+                            <h4 class="mt-2">Personalised Planning</h4>
+                            <img src="assets/images/personalised-planning.webp" class="card-img-top"
+                                alt="Planning a photography session with a couple">
+                            <div class="card-body">
+                                <p class="card-text">We tailor your photoshoot to match your style, taking care of all
+                                    the
+                                    details to ensure a stress-free session.</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <!--Final Touch & Editing-->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="card h-100">
-                        <h4 class="mt-2">Final Touch & Editing</h4>
-                        <img src="assets/images/final.webp" class="card-img-top"
-                            alt="Photographer editing pictures after a photoshoot">
-                        <div class="card-body">
-                            <p class="card-text">We professionally edit and enhance your images, delivering
-                                high-resolution photos ready for printing or sharing.</p>
+                    <!--Final Touch & Editing-->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="card h-100">
+                            <h4 class="mt-2">Final Touch & Editing</h4>
+                            <img src="assets/images/final.webp" class="card-img-top"
+                                alt="Photographer editing pictures after a photoshoot">
+                            <div class="card-body">
+                                <p class="card-text">We professionally edit and enhance your images, delivering
+                                    high-resolution photos ready for printing or sharing.</p>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <!--  Testimonials Section -->
-        <section id="reviews" class="container py-4">
-            <h2 class="text-center ">Testimonials</h2>
-            <div class="row">
-                <!-- Review 1 -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="review-item">
-                        <p class="lead">"Thank you so much! We are beyond happy with your work. The pictures turned out
-                            beautifully, and communication was seamless. You understood our vision perfectly, making the
-                            process smooth and stress-free."</p>
-                        <h5><strong>Ameera & Ali</strong></h5>
+            <!--  Testimonials Section -->
+            <section id="reviews" class="container py-4">
+                <h2 class="text-center ">Testimonials</h2>
+                <div class="row">
+                    <!-- Review 1 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="review-item">
+                            <p class="lead">"Thank you so much! We are beyond happy with your work. The pictures turned
+                                out
+                                beautifully, and communication was seamless. You understood our vision perfectly, making
+                                the
+                                process smooth and stress-free."</p>
+                            <h5><strong>Ameera & Ali</strong></h5>
+                        </div>
+                    </div>
+                    <!-- Review 2 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="review-item">
+                            <p class="lead">"We booked our baby shower last minute, yet the photographer arrived within
+                                days. She made us feel comfortable and worked effortlessly with the videographer,
+                                ensuring
+                                everything went perfectly."</p>
+                            <h5><strong>Fatima & Hussain</strong></h5>
+                        </div>
+                    </div>
+                    <!-- Review 3 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="review-item">
+                            <p class="lead">"From the venue to candid shots, every moment was beautifully captured. The
+                                photographer was professional, ensuring we had stunning pictures to cherish forever."
+                            </p>
+                            <h5><strong>Harry & Anna</strong></h5>
+                        </div>
+                    </div>
+                    <!-- Review 4 -->
+                    <div class="col-12 col-md-6 col-lg-6">
+                        <div class="review-item">
+                            <p class="lead">"Absolutely breathtaking photos! The photographer captured every special
+                                moment
+                                perfectly, making us feel relaxed and at ease throughout the day. We’ll definitely book
+                                again!"</p>
+                            <h5><strong>Mary & Joe</strong></h5>
+                        </div>
                     </div>
                 </div>
-                <!-- Review 2 -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="review-item">
-                        <p class="lead">"We booked our baby shower last minute, yet the photographer arrived within
-                            days. She made us feel comfortable and worked effortlessly with the videographer, ensuring
-                            everything went perfectly."</p>
-                        <h5><strong>Fatima & Hussain</strong></h5>
-                    </div>
-                </div>
-                <!-- Review 3 -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="review-item">
-                        <p class="lead">"From the venue to candid shots, every moment was beautifully captured. The
-                            photographer was professional, ensuring we had stunning pictures to cherish forever."</p>
-                        <h5><strong>Harry & Anna</strong></h5>
-                    </div>
-                </div>
-                <!-- Review 4 -->
-                <div class="col-12 col-md-6 col-lg-6">
-                    <div class="review-item">
-                        <p class="lead">"Absolutely breathtaking photos! The photographer captured every special moment
-                            perfectly, making us feel relaxed and at ease throughout the day. We’ll definitely book
-                            again!"</p>
-                        <h5><strong>Mary & Joe</strong></h5>
-                    </div>
+            </section>
+
+            <!--video-->
+            <div class="vid">
+                <div style="position: relative; width: 100%; padding-bottom: 30%; height: 0; overflow: hidden;">
+                    <iframe src="https://www.youtube.com/embed/o43HkRgdnpk?autoplay=1&mute=1"
+                        title="YouTube video player"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                        allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+                    </iframe>
                 </div>
             </div>
         </section>
-
-        <!--video-->
-        <div class="vid">
-            <div style="position: relative; width: 100%; padding-bottom: 30%; height: 0; overflow: hidden;">
-                <iframe src="https://www.youtube.com/embed/o43HkRgdnpk?autoplay=1&mute=1"
-                    title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-                </iframe>
-            </div>
-        </div>
     </main>
     <!--footer-->
     <footer id="contact" class="mt-auto">
@@ -233,4 +245,5 @@
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
 </body>
+
 </html>
