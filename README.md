@@ -26,7 +26,6 @@
     - [404 Error Page](#404-error-page)
     - [Booking Success Page](#booking-success-page)
     - [Future Features](#future-features)
-    - [Newsletter Subscription](#newsletter-subscription)
   - [Deployment](#deployment)
     - [GitHub Pages](#github-pages)
     - [Forking the GitHub Repository](#forking-the-github-repository)
@@ -200,7 +199,7 @@ Once a user successfully books a session, they’ll be taken to a **Thank You Pa
 
 ### Future Features
 
-### Newsletter Subscription
+**Newsletter Subscription**
 - A newsletter signup option where users can receive updates on promotions, new Photographer packages, and blog posts.  
 - Users can sign in to view their past bookings and they can book future bookings too.
 
