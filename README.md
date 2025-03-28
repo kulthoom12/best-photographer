@@ -1,6 +1,8 @@
-# Best Photography 
+# Best Photographer 
 
-- [Best Photography](#best-photography)
+<img src="assets/images/intro.png">
+
+- [Best Photographer](#best-photographer)
   - [UX](#ux)
     - [New User Stories](#new-user-stories)
     - [Existing Users](#existing-users)
@@ -34,26 +36,25 @@
     - [CSS Testing](#css-testing)
     - [Responsiveness](#responsiveness)
     - [Lighthouse Audit](#lighthouse-audit)
-  - [User Interactions](#user-interactions)
+    - [User Interactions](#user-interactions)
     - [Browser Compatibility](#browser-compatibility)
     - [Bugs](#bugs)
   - [Tools and Technologies Used](#tools-and-technologies-used)
     - [Content](#content)
     - [Media](#media)
-  - [Credits](#credits)
+    - [Credits](#credits)
 
-Welcome to Best Photography, where we specialize in capturing life's most precious moments. Whether it's a wedding, family portrait, or professional headshot, we are dedicated to providing you with stunning photos that you'll cherish forever. Our website offers a glimpse into our services, including:
+Welcome to Best Photographer, where we specialize in capturing life's most precious moments. Whether it's a wedding, family portrait, or professional headshot, we are dedicated to providing you with stunning photos that you'll cherish forever. Our website offers a glimpse into our services, including:
 
 - **Free consultations** to discuss your vision.
-- **Expert photography**  tailored to your needs. 
+- **Expert Photographer**  tailored to your needs. 
 - **Personalized planning** to ensure a seamless experience.
 - **High-quality image editing** for the perfect final result. 
 
-At Best Photography, we are passionate about preserving your memories through the art of photography, making each moment unforgettable.
+At Best Photographer, we are passionate about preserving your memories through the art of Photographer, making each moment unforgettable.
 
 A live version of the project can be accessed here: [Best Photographer](https://kulthoom12.github.io/best-photographer/)
 
-<img src="assets/images/intro.png">
 
 ## UX
 
@@ -63,19 +64,19 @@ A live version of the project can be accessed here: [Best Photographer](https://
 - As a new user I would like to easily navigate the site so I can find what I’m looking for.
 - As a new user I would like to contact the photographer through the website to ask questions.
 - As a new user I would like to see examples of the photographer’s work so I know what to expect through images.
-- As a new user I would like to book a photography session online without any hassle.
-- As a new user I would like to learn about different photography packages so I can choose the best one for me.
+- As a new user I would like to book a Photographer session online without any hassle.
+- As a new user I would like to learn about different Photographer packages so I can choose the best one for me.
 - As a new user I want to find social media links so I can follow the photographer’s latest updates.
 
 ### Existing Users
 
 - As an existing user I would like to book a session.
 - As an existing user I would like to find the contact details to contact the photographer.
-- As an existing user I want to see any existing photography packages.
+- As an existing user I want to see any existing Photographer packages.
   
 ### Typography 
 
-**[EB Garamond](https://fonts.google.com/specimen/EB+Garamond)**: This font is elegant and classic. It’s used for headings to give the website a sophisticated and timeless look, perfect for the photography services we offer.
+**[EB Garamond](https://fonts.google.com/specimen/EB+Garamond)**: This font is elegant and classic. It’s used for headings to give the website a sophisticated and timeless look, perfect for the Photographer services we offer.
 
 **[Nunito](https://fonts.google.com/specimen/Nunito)**: This font is modern, clean, and easy to read. It’s used for the body text and other sections, making the website feel friendly and approachable for visitors.
 
@@ -120,7 +121,7 @@ Wireframes were created on paper for mobile, tablet and laptop screens for the h
 
 ### Existing Features
 
-The Best Photography website has several important features to make it easy for visitors to find what they need and have a smooth experience.
+The Best Photographer website has several important features to make it easy for visitors to find what they need and have a smooth experience.
 
 The **navbar** and **footer** are **consistent** across all pages, including the index.html, packages.html, booking.html, success.html and 404.html. They also share the same  **beige** background color to maintain readability and consistency.
 
@@ -146,14 +147,14 @@ The footer is at the bottom of every page and gives you easy access to important
 ### Home Page
 #### Introduction Section
 
-The homepage is where you first land and gives an introduction to **Best Photography**:
-- **Carousel**: An autoplaying carousel is displayed on the left of the page, showcasing photography images of the photographer’s work. 
+The homepage is where you first land and gives an introduction to **Best Photographer**:
+- **Carousel**: An autoplaying carousel is displayed on the left of the page, showcasing Photographer images of the photographer’s work. 
 - **Introduction**: A brief overview of the services provided, including wedding albums, family portraits, and professional headshots. A **button** is displayed on the right of the page introducing 'Best Photographer' to users, and the button enables users to book a photoshoot by directing them to the **booking.html** page.
 
 <img src="assets/images/home.png">
 
 #### Service Section
-The **Service Section** on the homepage introduces the main services offered by **Best Photography**. It shows four cards, each explaining a different service.
+The **Service Section** on the homepage introduces the main services offered by **Best Photographer**. It shows four cards, each explaining a different service.
 
 <img src="assets/images/service.png">
 
@@ -169,13 +170,13 @@ There’s also a **Video Section** on the homepage:
 <img src="assets/images/video.png">
 
 ### Packages Page
-The **Packages Page** provides detailed information on **10 different photography packages**:
+The **Packages Page** provides detailed information on **10 different Photographer packages**:
 - Each package has its own **image, description** and a **Book Now button** with the respective price, making it easy for users to take action.
 
 <img src="assets/images/packages.png">
 
 ### Book Now Page
-The **Booking Form** allows users to book a photography session. It includes the following input fields:
+The **Booking Form** allows users to book a Photographer session. It includes the following input fields:
 - Name, Email Address, Phone Number, Package Type, Message and a Submit Button.
 
 All input fields are required, and the form cannot be submitted unless all fields are filled out.
@@ -200,7 +201,7 @@ Once a user successfully books a session, they’ll be taken to a **Thank You Pa
 ### Future Features
 
 ### Newsletter Subscription
-- A newsletter signup option where users can receive updates on promotions, new photography packages, and blog posts.  
+- A newsletter signup option where users can receive updates on promotions, new Photographer packages, and blog posts.  
 - Users can sign in to view their past bookings and they can book future bookings too.
 
 ## Deployment
@@ -216,7 +217,7 @@ To deploy the website, follow these steps:
 5. Under **Build and deployment**, select the **main** branch.
 6. Click **Save**.
 
-The **Best Photography** website is hosted on GitHub Pages. You can view the live website by clicking [here](https://kulthoom12.github.io/best-photographer/).
+The **Best Photographer** website is hosted on GitHub Pages. You can view the live website by clicking [here](https://kulthoom12.github.io/best-photographer/).
 
 ### Forking the GitHub Repository
 
@@ -299,25 +300,25 @@ To download the project to your computer:
 
 </details>
 
-## User Interactions
+### User Interactions
 
 <details> <summary> Click to view the user Interactions</summary>
 
-| Features | Testing | Expectation |
-| --- | --- | --- |
-| Logo | Directs to the homepage | The logo should take the user straight to the homepage. |
-| Navbar-Home | Directs to the homepage | Clicking on "Home" in the navbar should bring the user back to the main page. |
-| Navbar-Packages | Directs to the packages page | The "Packages" button in the navbar should take users directly to the packages page where they can explore all available options. |
-| Navbar-Contact Us | Directs to the contact section in the footer | The "Contact Us" link in the navbar should smoothly scroll or redirect the user down to the contact section at the bottom of the page. |
-| Navbar-Book Now | Redirects to the book now page | The "Book Now" button in the navbar should guide users to the booking page. |
-| Button under About | Directs to the booking page | The button under the "About" section should direct users to the booking page. |
-| Button after Submission Form | Submits the booking form | After completing the form, the button should submit the booking details. |
-| All buttons on the Packages page | Directs to the booking page | All buttons on the packages page should lead users to the booking page. |
-| Social media icons | Icons open in a new page | The social media icons should open in new tabs, allowing users to check out your social profiles without leaving the website. |
-| Footer-Service | Directs the user to the service section | The "Service" link in the footer should take users to the service section. |
-| Footer-Testimonials | Directs the user to the testimonials section | The "Testimonials" link in the footer should lead users to a section showcasing customer reviews. |
-| Footer-Our Packages | Directs the user to the packages page | Clicking on "Our Packages" in the footer should instantly take users to the packages page. |
-| Footer-Book Now | Directs the user to the booking page | The "Book Now" button in the footer should send users to the booking page. |
+| Features                         | Testing                                      | Expectation                                                                                                                            |
+| -------------------------------- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Logo                             | Directs to the homepage                      | The logo should take the user straight to the homepage.                                                                                |
+| Navbar-Home                      | Directs to the homepage                      | Clicking on "Home" in the navbar should bring the user back to the main page.                                                          |
+| Navbar-Packages                  | Directs to the packages page                 | The "Packages" button in the navbar should take users directly to the packages page where they can explore all available options.      |
+| Navbar-Contact Us                | Directs to the contact section in the footer | The "Contact Us" link in the navbar should smoothly scroll or redirect the user down to the contact section at the bottom of the page. |
+| Navbar-Book Now                  | Redirects to the book now page               | The "Book Now" button in the navbar should guide users to the booking page.                                                            |
+| Button under About               | Directs to the booking page                  | The button under the "About" section should direct users to the booking page.                                                          |
+| Button after Submission Form     | Submits the booking form                     | After completing the form, the button should submit the booking details.                                                               |
+| All buttons on the Packages page | Directs to the booking page                  | All buttons on the packages page should lead users to the booking page.                                                                |
+| Social media icons               | Icons open in a new page                     | The social media icons should open in new tabs, allowing users to check out your social profiles without leaving the website.          |
+| Footer-Service                   | Directs the user to the service section      | The "Service" link in the footer should take users to the service section.                                                             |
+| Footer-Testimonials              | Directs the user to the testimonials section | The "Testimonials" link in the footer should lead users to a section showcasing customer reviews.                                      |
+| Footer-Our Packages              | Directs the user to the packages page        | Clicking on "Our Packages" in the footer should instantly take users to the packages page.                                             |
+| Footer-Book Now                  | Directs the user to the booking page         | The "Book Now" button in the footer should send users to the booking page.                                                             |
 
 </details>
 
@@ -339,49 +340,44 @@ No bugs found to my knowledge.
 
 ## Tools and Technologies Used
 
-<details> <summary> Click to view links I had used for my project</summary>
-
-| Source | Links |
-| --- | --- |
-| Markdown Builder | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
-| Google Fonts | https://fonts.google.com/selection |
-| Favicons | https://favicon.io/ |
-| W3 School | https://www.w3schools.com/html/default.asp |
-| Bootstrap | https://getbootstrap.com/ |
-| Dev Tools | This is inspected on the website |
-| Lunas Website | https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos |
-| Adobe Resize Images | https://www.adobe.com/express/ |
-
-</details>
+| Source              | Links                                                                      |
+| ------------------- | -------------------------------------------------------------------------- |
+| Markdown Builder    | [Link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)   |
+| Google Fonts        | [Link](https://fonts.google.com/selection)                                 |
+| Favicons            | [Link](https://favicon.io/)                                                |
+| W3 School           | [Link](https://www.w3schools.com/html/default.asp)                         |
+| Bootstrap           | [Link](https://getbootstrap.com/)                                          |
+| Dev Tools           | [Link](https://developer.chrome.com/docs/devtools)                         |
+| Lunas Website       | [Link](https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos) |
+| Adobe Resize Images | [Link](https://www.adobe.com/express/)                                     |
+| Colour Palette      | [Link](http://colormind.io/)                                               |
 
 ### Content
 
 ### Media
-<details> <summary> Click to view images that I used on the website.</summary>
 
-| Source | Location |
-| --- | --- |
-| https://www.pexels.com/photo/aerial-photo-of-man-and-woman-lying-on-grass-field-265722/ | Carousel |
-| https://www.pexels.com/photo/a-happy-newlywed-couple-3650446/ | Carousel |
-| https://www.pexels.com/photo/woman-in-white-wedding-gown-holding-hands-with-man-in-black-suit-3785645/ | Carousel |
-| https://www.pexels.com/photo/a-family-looking-at-ultrasound-results-6148984/ | service/Homepage |
-| https://www.pexels.com/photo/photographer-holding-camera-over-laptop-16313529/ | service/Homepage |
-| https://www.pexels.com/photo/photographer-shooting-shiny-disco-ball-and-tinsel-7014652/ | service/Homepage |
-| https://www.pexels.com/photo/close-up-shot-of-two-women-wearing-long-sleeves-looking-at-the-macbook-6135116/ | service/Homepage |
-| https://www.pexels.com/photo/two-rings-on-opened-book-288008/ | Packages page |
-| https://www.pexels.com/photo/woman-wearing-white-wedding-gown-holding-hands-with-man-while-walking-1043902/ | Packages page |
-| https://www.pexels.com/photo/people-standing-and-standing-near-balloons-6461817/ | Packages page |
-| https://www.pexels.com/photo/group-of-people-taking-photo-inside-room-2399102/ | Packages page |
-| https://www.pexels.com/photo/couple-standing-beside-a-deer-10533334/ | Packages page |
-| https://www.pexels.com/photo/joyful-graduation-celebration-with-bubbles-31128495/ | Packages page |
-| https://www.pexels.com/photo/girl-sitting-with-toys-of-micky-and-minnie-mouse-26734391/ | Packages page |
-| https://www.pexels.com/photo/elegant-woman-posing-in-marrakesh-courtyard-30362159/ | Packages page |
-| https://www.pexels.com/photo/assorted-eye-shadow-and-blusher-palette-2113855/ | Packages page |
-| https://www.pexels.com/photo/baby-covered-by-blue-blanket-3169971/ | Packages page |
-| https://www.pexels.com/photo/close-up-shot-of-two-women-wearing-long-sleeves-looking-at-the-macbook-6135116/ | Packages page |
-| https://www.youtube.com/watch?time_continue=4&v=o43HkRgdnpk&embeds_referring_euri=http%3A%2F%2F127.0.0.1%3A3000%2F&source_ve_path=Mjg2NjY | Service/Homepage |
+| Source                                                                                                                                            | Location         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [Link](https://www.pexels.com/photo/aerial-photo-of-man-and-woman-lying-on-grass-field-265722/)                                                   | Carousel         |
+| [Link](https://www.pexels.com/photo/a-happy-newlywed-couple-3650446/)                                                                             | Carousel         |
+| [Link](https://www.pexels.com/photo/woman-in-white-wedding-gown-holding-hands-with-man-in-black-suit-3785645/)                                    | Carousel         |
+| [Link](https://www.pexels.com/photo/a-family-looking-at-ultrasound-results-6148984/)                                                              | service/Homepage |
+| [Link](https://www.pexels.com/photo/photographer-holding-camera-over-laptop-16313529/)                                                            | service/Homepage |
+| [Link](https://www.pexels.com/photo/photographer-shooting-shiny-disco-ball-and-tinsel-7014652/)                                                   | service/Homepage |
+| [Link](https://www.pexels.com/photo/close-up-shot-of-two-women-wearing-long-sleeves-looking-at-the-macbook-6135116/)                              | service/Homepage |
+| [Link](https://www.pexels.com/photo/two-rings-on-opened-book-288008/)                                                                             | Packages page    |
+| [Link](https://www.pexels.com/photo/woman-wearing-white-wedding-gown-holding-hands-with-man-while-walking-1043902/)                               | Packages page    |
+| [Link](https://www.pexels.com/photo/people-standing-and-standing-near-balloons-6461817/)                                                          | Packages page    |
+| [Link](https://www.pexels.com/photo/group-of-people-taking-photo-inside-room-2399102/)                                                            | Packages page    |
+| [Link](https://www.pexels.com/photo/couple-standing-beside-a-deer-10533334/)                                                                      | Packages page    |
+| [Link](https://www.pexels.com/photo/joyful-graduation-celebration-with-bubbles-31128495/)                                                         | Packages page    |
+| [Link](https://www.pexels.com/photo/girl-sitting-with-toys-of-micky-and-minnie-mouse-26734391/)                                                   | Packages page    |
+| [Link](https://www.pexels.com/photo/elegant-woman-posing-in-marrakesh-courtyard-30362159/)                                                        | Packages page    |
+| [Link](https://www.pexels.com/photo/assorted-eye-shadow-and-blusher-palette-2113855/)                                                             | Packages page    |
+| [Link](https://www.pexels.com/photo/baby-covered-by-blue-blanket-3169971/)                                                                        | Packages page    |
+| [Link](https://www.pexels.com/photo/close-up-shot-of-two-women-wearing-long-sleeves-looking-at-the-macbook-6135116/)                              | Packages page    |
+| [Link](https://www.youtube.com/watch?time_continue=4&v=o43HkRgdnpk&embeds_referring_euri=http%3A%2F%2F127.0.0.1%3A3000%2F&source_ve_path=Mjg2NjY) | Service/Homepage |
 
-</details>
 
-## Credits
-I would like to thank my tutor Robert Thompson and my mentor Lauren-Nicole.
+### Credits
+I would like to thank my tutor Robert Thompson and my mentor Lauren-Nicole for their support with completing this project. 
