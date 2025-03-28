@@ -34,13 +34,13 @@
     - [CSS Testing](#css-testing)
     - [Responsiveness](#responsiveness)
     - [Lighthouse Audit](#lighthouse-audit)
+  - [User Interactions](#user-interactions)
     - [Browser Compatibility](#browser-compatibility)
     - [Bugs](#bugs)
   - [Tools and Technologies Used](#tools-and-technologies-used)
-  - [Credits](#credits)
     - [Content](#content)
     - [Media](#media)
-    - [Acknowledgements](#acknowledgements)
+  - [Credits](#credits)
 
 Welcome to Best Photography, where we specialize in capturing life's most precious moments. Whether it's a wedding, family portrait, or professional headshot, we are dedicated to providing you with stunning photos that you'll cherish forever. Our website offers a glimpse into our services, including:
 
@@ -299,6 +299,28 @@ To download the project to your computer:
 
 </details>
 
+## User Interactions
+
+<details> <summary> Click to view the user Interactions</summary>
+
+| Features | Testing | Expectation |
+| --- | --- | --- |
+| Logo | Directs to the homepage | The logo should take the user straight to the homepage. |
+| Navbar-Home | Directs to the homepage | Clicking on "Home" in the navbar should bring the user back to the main page. |
+| Navbar-Packages | Directs to the packages page | The "Packages" button in the navbar should take users directly to the packages page where they can explore all available options. |
+| Navbar-Contact Us | Directs to the contact section in the footer | The "Contact Us" link in the navbar should smoothly scroll or redirect the user down to the contact section at the bottom of the page. |
+| Navbar-Book Now | Redirects to the book now page | The "Book Now" button in the navbar should guide users to the booking page. |
+| Button under About | Directs to the booking page | The button under the "About" section should direct users to the booking page. |
+| Button after Submission Form | Submits the booking form | After completing the form, the button should submit the booking details. |
+| All buttons on the Packages page | Directs to the booking page | All buttons on the packages page should lead users to the booking page. |
+| Social media icons | Icons open in a new page | The social media icons should open in new tabs, allowing users to check out your social profiles without leaving the website. |
+| Footer-Service | Directs the user to the service section | The "Service" link in the footer should take users to the service section. |
+| Footer-Testimonials | Directs the user to the testimonials section | The "Testimonials" link in the footer should lead users to a section showcasing customer reviews. |
+| Footer-Our Packages | Directs the user to the packages page | Clicking on "Our Packages" in the footer should instantly take users to the packages page. |
+| Footer-Book Now | Directs the user to the booking page | The "Book Now" button in the footer should send users to the booking page. |
+
+</details>
+
 ### Browser Compatibility
 <details> <summary> Click to view the browser compatibility</summary>
 
@@ -317,9 +339,20 @@ No bugs found to my knowledge.
 
 ## Tools and Technologies Used
 
-## Credits
+<details> <summary> Click to view links I had used for my project</summary>
 
+| Source | Links |
+| --- | --- |
+| Markdown Builder | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet |
+| Google Fonts | https://fonts.google.com/selection |
+| Favicons | https://favicon.io/ |
+| W3 School | https://www.w3schools.com/html/default.asp |
+| Bootstrap | https://getbootstrap.com/ |
+| Dev Tools | This is inspected on the website |
+| Lunas Website | https://github.com/Code-Institute-Submissions/Lunas-Leopard-Geckos |
+| Adobe Resize Images | https://www.adobe.com/express/ |
 
+</details>
 
 ### Content
 
@@ -350,4 +383,5 @@ No bugs found to my knowledge.
 
 </details>
 
-### Acknowledgements
+## Credits
+I would like to thank my tutor Robert Thompson and my mentor Lauren-Nicole.
