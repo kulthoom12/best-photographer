@@ -319,8 +319,35 @@ No bugs found to my knowledge.
 
 ## Credits
 
+
+
 ### Content
 
 ### Media
+<details> <summary> Click to view images that I used on the website.</summary>
+
+| Source | Location |
+| --- | --- |
+| https://www.pexels.com/photo/aerial-photo-of-man-and-woman-lying-on-grass-field-265722/ | Carousel |
+| https://www.pexels.com/photo/a-happy-newlywed-couple-3650446/ | Carousel |
+| https://www.pexels.com/photo/woman-in-white-wedding-gown-holding-hands-with-man-in-black-suit-3785645/ | Carousel |
+| https://www.pexels.com/photo/a-family-looking-at-ultrasound-results-6148984/ | service/Homepage |
+| https://www.pexels.com/photo/photographer-holding-camera-over-laptop-16313529/ | service/Homepage |
+| https://www.pexels.com/photo/photographer-shooting-shiny-disco-ball-and-tinsel-7014652/ | service/Homepage |
+| https://www.pexels.com/photo/close-up-shot-of-two-women-wearing-long-sleeves-looking-at-the-macbook-6135116/ | service/Homepage |
+| https://www.pexels.com/photo/two-rings-on-opened-book-288008/ | Packages page |
+| https://www.pexels.com/photo/woman-wearing-white-wedding-gown-holding-hands-with-man-while-walking-1043902/ | Packages page |
+| https://www.pexels.com/photo/people-standing-and-standing-near-balloons-6461817/ | Packages page |
+| https://www.pexels.com/photo/group-of-people-taking-photo-inside-room-2399102/ | Packages page |
+| https://www.pexels.com/photo/couple-standing-beside-a-deer-10533334/ | Packages page |
+| https://www.pexels.com/photo/joyful-graduation-celebration-with-bubbles-31128495/ | Packages page |
+| https://www.pexels.com/photo/girl-sitting-with-toys-of-micky-and-minnie-mouse-26734391/ | Packages page |
+| https://www.pexels.com/photo/elegant-woman-posing-in-marrakesh-courtyard-30362159/ | Packages page |
+| https://www.pexels.com/photo/assorted-eye-shadow-and-blusher-palette-2113855/ | Packages page |
+| https://www.pexels.com/photo/baby-covered-by-blue-blanket-3169971/ | Packages page |
+| https://www.pexels.com/photo/close-up-shot-of-two-women-wearing-long-sleeves-looking-at-the-macbook-6135116/ | Packages page |
+| https://www.youtube.com/watch?time_continue=4&v=o43HkRgdnpk&embeds_referring_euri=http%3A%2F%2F127.0.0.1%3A3000%2F&source_ve_path=Mjg2NjY | Service/Homepage |
+
+</details>
 
 ### Acknowledgements
