@@ -37,6 +37,7 @@
     - [Lighthouse Audit](#lighthouse-audit)
     - [User Interactions](#user-interactions)
     - [Browser Compatibility](#browser-compatibility)
+    - [User Story Testing](#user-story-testing)
     - [Bugs](#bugs)
   - [Tools and Technologies Used](#tools-and-technologies-used)
     - [Content](#content)
@@ -333,6 +334,22 @@ To download the project to your computer:
 | Booking       | ![screenshot](assets/images/testing/browser-compatibility/chrome-booking.png)       | ![screenshot](assets/images/testing/browser-compatibility/brave-booking.png)       | ![screenshot](assets/images/testing/browser-compatibility/firefox-booking.png)       | ![screenshot](assets/images/testing/browser-compatibility/mircosoft-booking.png)       |
 
 </details>
+
+### User Story Testing
+
+| User Story | Screenshot | Outcome |
+|------------|------------|---------|
+| As a new user I would like to understand what the website offers so I can decide if it’s right for me. | ![screenshot](assets/images/testing/user-story/about.png) | The homepage and about section clearly introduce the photographer and services offered. |
+| As a new user I would like to easily navigate the site so I can find what I’m looking for. | ![screenshot](assets/images/testing/user-story/navbar.png) | The navbar is accessible on all pages with clear links to each section. |
+| As a new user I would like to contact the photographer through the website to ask questions. | ![screenshot](assets/images/testing/user-story/contact.png) | The contact information section displays quick links and social media links to contact the photographer. |
+| As a new user I would like to see examples of the photographer’s work so I know what to expect through images. | ![screenshot](assets/images/testing/user-story/carousel.png) | A carousel/gallery displays photography samples on the homepage. |
+| As a new user I would like to book a Photographer session online without any hassle. | ![screenshot](assets/images/testing/user-story/booking.png) | A booking form is available that allows users to select date and session type. |
+| As a new user I would like to learn about different Photographer packages so I can choose the best one for me. | ![screenshot](assets/images/testing/user-story/packages.png) | A packages page displays various options with an image, a descriptions and price. |
+| As a new user I want to find social media links so I can follow the photographer’s latest updates. | ![screenshot](assets/images/testing/user-story/contact.png) | Social media icons are provided in the footer and/or contact section. |
+| As an existing user I would like to book a session. | ![screenshot](assets/images/testing/user-story/booking.png) | Returning users can book directly using the same booking form. |
+| As an existing user I would like to find the contact details to contact the photographer. | ![screenshot](assets/images/testing/user-story/contact.png) | Contact details like email and phone are provided on the contact page. |
+| As an existing user I want to see any existing Photographer packages. | ![screenshot](assets/images/testing/user-story/packages.png) | Existing packages are visible on the packages page of the website, with an image for visuals and a description explaining the package. |
+
 
 ### Bugs
 
